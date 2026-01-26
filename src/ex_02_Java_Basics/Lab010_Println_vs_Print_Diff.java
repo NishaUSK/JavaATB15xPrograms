@@ -1,6 +1,6 @@
 package ex_02_Java_Basics;
 
-public class Lab010_Println_Print_Diff {
+public class Lab010_Println_vs_Print_Diff {
     public static void main(String[] args) {
         /** Below is the example for Println. That means the 2nd result will come in next line **/
 
